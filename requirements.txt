@@ -1,6 +1,7 @@
-langchain 
+langchain
+langchain-community
+langchain-openai
 faiss-cpu 
-openai 
 sentence-transformers 
 gradio 
 pypdf 
